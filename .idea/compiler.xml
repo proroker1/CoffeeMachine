@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Calculate_volume.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Concatenate_3_strings_with_separator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Declarations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Determine_the_result.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Gratuity.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Invocations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Polynomial.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Print_Username.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Summation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
